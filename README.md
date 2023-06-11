@@ -1,4 +1,4 @@
-# questions_for_allan
+# questions_for_alan
 
 [1.camera_parallel](1.camera_parallel/q1.md)
 
